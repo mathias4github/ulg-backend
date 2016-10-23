@@ -1,0 +1,87 @@
+rc_short,rc_long,prefix,name,city,country,region_continent,website,link
+ams,route-collector.ams.pch.net, 80.249.208.0/21, AMS-IX,Amsterdam,NL,Europe,http://www.ams-ix.net/,https://www.peeringdb.com/ix/26
+amsix-ord,route-collector.amsix-ord.pch.net, 206.108.115.0/24, AMS-IX Chicago,Chicago,US,North America,https://chi.ams-ix.net,https://www.peeringdb.com/ix/944
+amsix-sfo,route-collector.amsix-sfo.pch.net, 206.41.106.0/24, AMS-IX BA,San Francisco/San Jose,US,North America,http://bay.ams-ix.net,https://www.peeringdb.com/ix/935
+atl,route-collector.atl.pch.net, 198.32.132.0/24, Digital Realty | Telx Atlanta,Atlanta,US,North America,http://ix.digitalrealty.com,https://www.peeringdb.com/ix/22
+ber,route-collector.ber.pch.net, 193.178.185.0/24, BCIX,Berlin,DE,Europe,http://www.bcix.de/,https://www.peeringdb.com/ix/87
+bos,route-collector.bos.pch.net, 206.108.236.0/24, Boston Internet Exchange,Boston/Massachusetts,US,North America,http://www.bostonix.net/,https://www.peeringdb.com/ix/565
+bur,route-collector.bur.pch.net, 206.223.123.0/24, Equinix Los Angeles,Los Angeles,US,North America,https://ix.equinix.com,https://www.peeringdb.com/ix/4
+cai,route-collector.cai.pch.net, 81.21.96.0/24, CAIX,Cairo,EG,Middle East,http://www.caix.net.eg/,https://www.peeringdb.com/ix/274
+cdg,route-collector.cdg.pch.net, 37.49.236.0/23, France-IX,Paris,FR,Europe,https://www.franceix.net,https://www.peeringdb.com/ix/359
+coo,route-collector.coo.pch.net, 196.223.40.0/24, BENIN-IX,Cotonou,BJ,Africa,http://www.benin-ix.org.bj,https://www.peeringdb.com/ix/1017
+cpt,route-collector.cpt.pch.net, 196.223.22.0/24, CINX,Cape Town,ZA,Africa,http://wiki.inx.net.za/,https://www.peeringdb.com/ix/344
+dar,route-collector.dar.pch.net, 196.223.5.0/24, TIX - Tanzania,Dar es Salaam,TZ,Africa,http://tix.or.tz/,https://www.peeringdb.com/ix/361
+decix-ny,route-collector.decix-ny.pch.net, 206.130.10.0/24, DE-CIX New York,New York / New Jersey,US,North America,https://www.de-cix.net/locations/united-states/new-york,https://www.peeringdb.com/ix/804
+dub,route-collector.dub.pch.net, 193.242.111.0/25, INEX LAN1,Dublin,IE,Europe,https://www.inex.ie/,https://www.peeringdb.com/ix/48
+dur,route-collector.dur.pch.net, 196.223.30.0/24, DINX,Durban,ZA,Africa,http://www.ispa.org.za/,https://www.peeringdb.com/ix/610
+dxb,route-collector.dxb.pch.net, 185.1.8.0/24, UAE-IX,Dubai,AE,Middle East,http://www.uae-ix.net,https://www.peeringdb.com/ix/587
+ecix-ber,route-collector.ecix-ber.pch.net, 194.9.117.0/24, ECIX-BER,Berlin,DE,Europe,https://www.ecix.net/,https://www.peeringdb.com/ix/209
+ecix-dus,route-collector.ecix-dus.pch.net, 194.146.118.0/24, ECIX-DUS,Duesseldorf,DE,Europe,https://www.ecix.net/,https://www.peeringdb.com/ix/91
+ecix-fra,route-collector.ecix-fra.pch.net, 62.69.146.0/23, ECIX-FRA,Frankfurt,DE,Europe,https://www.ecix.net,https://www.peeringdb.com/ix/676
+ecix-ham,route-collector.ecix-ham.pch.net, 193.42.155.0/24, ECIX-HAM,Hamburg,DE,Europe,https://www.ecix.net/,https://www.peeringdb.com/ix/291
+ecix-muc,route-collector.ecix-muc.pch.net, 194.59.190.0/24, INXS by ecix,Munich,DE,Europe,https://www.ecix.net,https://www.peeringdb.com/ix/73
+edi,route-collector.edi.pch.net, 195.66.246.0/24, IXScotland,Scotland,GB,Europe,http://www.linx.net,https://www.peeringdb.com/ix/745
+equinix-paris,route-collector.equinix-paris.pch.net, 195.42.144.0/23, Equinix Paris,Paris,FR,Europe,http://www.equinix-ix.fr/,https://www.peeringdb.com/ix/255
+equinix-sg,route-collector.equinix-sg.pch.net, 27.111.228.0/22, Equinix Singapore,Singapore,SG,Asia Pacific,https://ix.equinix.com,https://www.peeringdb.com/ix/158
+eze,route-collector.eze.pch.net, 200.0.17.0/24, CABASE-BUE,Buenos Aires,AR,South America,http://www.cabase.org.ar/,https://www.peeringdb.com/ix/181
+fra,route-collector.fra.pch.net, 80.81.192.0/22, DE-CIX Frankfurt,Frankfurt,DE,Europe,https://www.de-cix.net/locations/germany/frankfurt,https://www.peeringdb.com/ix/31
+hkg,route-collector.hkg.pch.net, 123.255.88.0/21, HKIX,Hong Kong,HK,Asia Pacific,http://www.hkix.net/,https://www.peeringdb.com/ix/42
+iad,route-collector.iad.pch.net, 206.126.236.0/22, Equinix Ashburn,Ashburn,US,North America,https://ix.equinix.com,https://www.peeringdb.com/ix/1
+jax,route-collector.jax.pch.net, 206.123.7.0/24, JXIX,Jacksonville,US,North America,http://jxix.org,https://www.peeringdb.com/ix/563
+jnb,route-collector.jnb.pch.net, 196.223.14.0/24, JINX,Johannesburg,ZA,Africa,http://wiki.inx.net.za/,https://www.peeringdb.com/ix/129
+jpix,route-collector.jpix.pch.net, 210.171.224.0/24, JPIX,Tokyo,JP,Asia Pacific,http://www.jpix.ad.jp/,https://www.peeringdb.com/ix/30
+kbp,route-collector.kbp.pch.net, 185.1.62.0/23, GigaNET,Kiev,UA,Europe,http://giganet.ua/en,https://www.peeringdb.com/ix/655
+kgl,route-collector.kgl.pch.net, 196.223.12.0/24, RINEX,Kigali,RW,Africa,http://www.rinex.org.rw,https://www.peeringdb.com/ix/1032
+kla,route-collector.kla.pch.net, 196.223.25.0/25, UIXP,Kampala,UG,Africa,http://www.uixp.co.ug/,https://www.peeringdb.com/ix/422
+klu,route-collector.klu.pch.net, 193.37.144.0/24, AAIX,Klagenfurt,AT,Europe,http://www.aaix.at,https://www.peeringdb.com/ix/377
+ktm,route-collector.ktm.pch.net, 198.32.231.0/25, npIX,Kathmandu,NP,Asia Pacific,http://www.npix.net.np/index.html,https://www.peeringdb.com/ix/241
+lad,route-collector.lad.pch.net, 196.11.234.0/24, angonix,Luanda,AO,Africa,http://angonix.net/,https://www.peeringdb.com/ix/1007
+lba,route-collector.lba.pch.net, 91.217.231.0/24, IX Leeds,Leeds / Western Yorkshire,GB,Europe,http://ixleeds.net,https://www.peeringdb.com/ix/435
+lga,route-collector.lga.pch.net, 198.32.118.0/24, Equinix New York,New York,US,North America,https://ix.equinix.com,https://www.peeringdb.com/ix/12
+linx-iad,route-collector.linx-iad.pch.net, 206.55.196.0/23, LINX NoVA,Northern Virginia,US,North America,https://www.linx.net/linx-nova,https://www.peeringdb.com/ix/777
+lonap,route-collector.lonap.pch.net, 5.57.80.0/22, LONAP,London,GB,Europe,https://www.lonap.net/,https://www.peeringdb.com/ix/53
+los,route-collector.los.pch.net, 196.216.148.0/24, IXPN Lagos,Lagos,NG,Africa,http://www.ixp.net.ng,https://www.peeringdb.com/ix/488
+lys,route-collector.lys.pch.net, 77.95.71.0/24, Lyonix,Lyon,FR,Europe,http://www.lyonix.net/,https://www.peeringdb.com/ix/69
+man,route-collector.man.pch.net, 195.66.244.0/24, IXManchester,Manchester,GB,Europe,http://www.linx.net,https://www.peeringdb.com/ix/583
+mcix,route-collector.mcix.pch.net, 119.110.116.0/23, MCIX - Matrix Networks,Jakarta,ID,Asia Pacific,http://www.nap.net.id,https://www.peeringdb.com/ix/469
+megaport-syd,route-collector.megaport-syd.pch.net, 103.26.68.0/23, MegaIX Sydney,Sydney,AU,Australia,http://www.megaport.com,https://www.peeringdb.com/ix/780
+mia,route-collector.mia.pch.net, 198.32.124.0/23, NOTA,Miami,US,North America,http://www.verizonenterprise.com,https://www.peeringdb.com/ix/17
+midwestix-chicago,route-collector.midwestix-chicago.pch.net, 206.53.139.0/24, MidWest-IX,Indianapolis/Indiana,US,North America,http://www.midwest-ix.com,https://www.peeringdb.com/ix/986
+mke,route-collector.mke.pch.net, 204.107.122.0/25, MKE-IX,Milwaukee,US,North America,http://www.mkeix.net,https://www.peeringdb.com/ix/499
+mpm,route-collector.mpm.pch.net, 192.168.10.0/24, MOZIX,Maputo,MZ,Africa,http://www.mozix.org.mz,https://www.peeringdb.com/ix/528
+nbo,route-collector.nbo.pch.net, 196.223.21.0/24, KIXP,Nairobi,KE,Africa,,https://www.peeringdb.com/ix/236
+netix,route-collector.netix.pch.net, 193.218.0.0/24, NetIX,Sofia,BG,Europe,http://www.netix.net,https://www.peeringdb.com/ix/699
+nqn,route-collector.nqn.pch.net, 200.0.19.0/24, CABASE-NQN,Neuquén,AR,South America,http://www.cabase.org.ar/,https://www.peeringdb.com/ix/930
+nrt,route-collector.nrt.pch.net, 202.249.2.0/24, DIX-IE,Tokyo,JP,Asia Pacific,http://nspixp.wide.ad.jp/,https://www.peeringdb.com/ix/92
+nsw-ix,route-collector.nsw-ix.pch.net, 218.100.52.0/24, IX Australia NSW,Sydney/NSW,AU,Australia,http://www.ix.asn.au,https://www.peeringdb.com/ix/716
+nsw-ix,route-collector.nsw-ix.pch.net, 198.32.212.0/24, IX Australia WA,Perth/WA,AU,Australia,http://www.waia.asn.au/waix,https://www.peeringdb.com/ix/21
+ord,route-collector.ord.pch.net, 206.223.119.0/24, Equinix Chicago,Chicago,US,North America,https://ix.equinix.com,https://www.peeringdb.com/ix/2
+pao,route-collector.pao.pch.net, 198.32.176.0/24, Equinix Palo Alto,Palo Alto,US,North America,https://ix.equinix.com,https://www.peeringdb.com/ix/7
+pdx,route-collector.pdx.pch.net, 198.32.195.0/24, NWAX,Portland/Oregon,US,North America,http://www.nwax.net,https://www.peeringdb.com/ix/165
+per,route-collector.per.pch.net, 198.32.212.0/24, IX Australia WA,Perth/WA,AU,Australia,http://www.waia.asn.au/waix,https://www.peeringdb.com/ix/21
+prg,route-collector.prg.pch.net, 91.213.211.0/24, Peering.cz,Prague/Bratislava,CZ,Europe,http://www.peering.cz,https://www.peeringdb.com/ix/713
+qpg,route-collector.qpg.pch.net, 103.16.102.0/23, SGIX,Singapore,SG,Asia Pacific,http://www.sgix.sg,https://www.peeringdb.com/ix/429
+rno,route-collector.rno.pch.net, 206.41.109.0/24, TahoeIX,Northern Nevada,US,North America,http://www.tahoeix.org,https://www.peeringdb.com/ix/938
+sdb,route-collector.sdb.pch.net, 196.10.140.0/24, NAPAfrica IX Cape Town,Cape Town,ZA,Africa,http://www.teraco.co.za,https://www.peeringdb.com/ix/597
+sea,route-collector.sea.pch.net, 206.81.80.0/23, SIX Seattle,Seattle,US,North America,https://www.seattleix.net/,https://www.peeringdb.com/ix/13
+sfinx,route-collector.sfinx.pch.net, 194.68.129.0/24, SFINX,Paris,FR,Europe,http://www.sfinx.fr/,https://www.peeringdb.com/ix/34
+sfo,route-collector.sfo.pch.net, 206.197.187.0/24, SFMIX,San Francisco,US,North America,http://www.sfmix.org/,https://www.peeringdb.com/ix/155
+sin,route-collector.sin.pch.net, 198.32.141.0/24, SOX,Singapore,SG,Asia Pacific,http://www.sox.net.sg/,https://www.peeringdb.com/ix/93
+sjo,route-collector.sjo.pch.net, 200.107.83.0/24, CRIX,San Jose,CR,North America,https://www.crix.cr/,https://www.peeringdb.com/ix/1023
+sof,route-collector.sof.pch.net, 193.169.198.0/23, BIX.BG,Sofia,BG,Europe,http://www.bix.bg/,https://www.peeringdb.com/ix/331
+syd,route-collector.syd.pch.net, 45.127.172.0/22, Equinix Sydney,Sydney,AU,Australia,https://ix.equinix.com,https://www.peeringdb.com/ix/94
+szg,route-collector.szg.pch.net, 185.1.43.0/24, SAIX,Salzburg,AT,Europe,https://www.saix.at/,https://www.peeringdb.com/ix/1073
+teraco-dur,route-collector.teraco-dur.pch.net, 196.10.141.0/24, NAPAfrica IX Durban,Durban,ZA,Africa,http://www.napafrica.net/napafrica-traffic/durban-internet-exchange/,https://www.peeringdb.com/ix/969
+tmp,route-collector.tmp.pch.net, 195.140.192.0/24, TREX,Tampere,FI,Europe,http://www.trex.fi/,https://www.peeringdb.com/ix/328
+tnr,route-collector.tnr.pch.net, 196.223.41.0/24, MGIX,Antananarivo,MG,Africa,http://www.mgix.mg,https://www.peeringdb.com/ix/1335
+trn,route-collector.trn.pch.net, 194.116.96.0/24, TOP-IX,Turin,IT,Europe,http://www.top-ix.org,https://www.peeringdb.com/ix/115
+vie,route-collector.vie.pch.net, 193.203.0.0/23, VIX,Vienna,AT,Europe,http://www.vix.at,https://www.peeringdb.com/ix/50
+vli,route-collector.vli.pch.net, 103.25.228.0/24, VIX.VU,Port Vila,VU,Asia Pacific,http://vix.vu,https://www.peeringdb.com/ix/971
+waw,route-collector.waw.pch.net, 195.182.218.0/23, PLIX,Warsaw,PL,Europe,http://www.plix.pl/,https://www.peeringdb.com/ix/264
+wlg,route-collector.wlg.pch.net, 202.7.0.0/23, WIX-NZ,Wellington,NZ,Australia,http://wix.nzix.net/,https://www.peeringdb.com/ix/348
+wpgix,route-collector.wpgix.pch.net, 206.126.109.0/24, WPGIX,Winnipeg,CA,North America,http://wpgix.net/,https://www.peeringdb.com/ix/776
+yul,route-collector.yul.pch.net, 198.179.18.0/24, QIX,Montreal,CA,North America,http://www.qix.ca,https://www.peeringdb.com/ix/355
+ywg,route-collector.ywg.pch.net, 206.72.208.0/24, MBIX,Winnipeg/Manitoba,CA,North America,http://www.mbix.ca,https://www.peeringdb.com/ix/703
+yyc,route-collector.yyc.pch.net, 206.126.225.0/24, YYCIX,Calgary,CA,North America,http://yycix.ca,https://www.peeringdb.com/ix/639
+yyz,route-collector.yyz.pch.net, 206.108.34.0/23, TorIX,Toronto,CA,North America,http://www.torix.ca/,https://www.peeringdb.com/ix/24
+zrh,route-collector.zrh.pch.net, 91.206.52.0/23, SwissIX,Zurich,CH,Europe,https://www.swissix.ch/,https://www.peeringdb.com/ix/60
