@@ -41,6 +41,6 @@ foreach $item (@filelist) {
 #	print "$file $collector $year $month $day $hour $min $sec\n";
 		$timegm=timegm($sec,$min,$hour,$day,$month,$year);
         	print "$file $timegm\n";
-		`python2 /home/ubuntu/src/bgpstream_sqlite_mgmt.py -M $srcdir/$file $outdir/route-collector.$collector.pch.net.sqlite -p $provider -c $collector -t updates -T $timegm -u 60`;
+		`python2 bgpstream_sqlite_mgmt.py -M $srcdir/$file $outdir/route-collector.$collector.pch.net.sqlite -p $provider -c $collector -t updates -T $timegm -u 60`;
  	};
 };
